@@ -1,0 +1,9 @@
+.Box1{
+    border: dotted;
+    
+}
+.Box2{
+    padding: 30px;
+    margin: 5%;
+    border: solid blue;
+}
